@@ -11,8 +11,10 @@ import java.util.Map;
 
 /**
  * Created by Yann.Xia on 2015/7/26.
+ *
+ * Local Transaction
  */
-public class TestTransaction extends BaseTestConfig {
+public class TestLocalTransaction extends BaseTestConfig {
 
     @Test
     public void testTransaction() {
