@@ -1,0 +1,10 @@
+/target/
+/.settings/
+/.classpath
+*.project
+/scope_settings.xml
+/.idea/
+/.name
+*.iml
+/build/
+*.gradle
